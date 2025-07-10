@@ -12,9 +12,9 @@ A full-stack mobile rental application built with **Flutter** (frontend) and **S
 -  View all available properties
 -  Search by title, thana, section, rent
 -  Unlock property details with credit
-- 🖼 Image carousel for property preview
+-  Image carousel for property preview
 -  Post properties (with multiple images)
-- ✏ Edit/Delete posted properties
+-  Edit/Delete posted properties
 -  My Unlocked Properties screen
 -  Profile view/edit + Logout
 
